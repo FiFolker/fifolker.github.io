@@ -9,6 +9,7 @@ h1{
     display: flex;
     justify-content: center;
     width: 100%;
+    text-align: center;
     color:white;
     border-bottom: 2px solid lightgray;
 }
@@ -38,5 +39,6 @@ h1{
 .flex-justify {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     gap: 30px;
 }
